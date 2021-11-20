@@ -1,0 +1,1 @@
+matlab -nosplash -nodesktop -r "try, run('src\main\perform_slerp.m'), catch, exit, end"
